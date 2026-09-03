@@ -1,0 +1,7 @@
+ac_env/
+*.pt
+__pycache__/
+*.pyc
+.streamlit/
+*.mp4
+outputs/
